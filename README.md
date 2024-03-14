@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, Folks Ashish John</h1>
+<h1 align="center">Hey 👋, I'm Ashish :-)  </h1>
 <h3 align="center">A passionate MERN stack developer from India</h3>
 
 <h3 align="left">Connect with me:</h3>
